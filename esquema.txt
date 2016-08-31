@@ -1,0 +1,15 @@
+FRONT-END 
+	HTML5
+	CSS3
+	JavaScript
+	Framework - Bootstrap
+BACK-END 
+	Ruby 
+	Ruby on Rails 
+	MVC => padrão de desenvolvimento
+Ferramenta de Versionamento 
+	GIT 	
+	GITHUB	
+Banco de dados 
+	PG
+	SQLITE3
